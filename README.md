@@ -1,2 +1,2 @@
 # steamIDrectifier
-Steam Personla Link -> SteamID64
+Steam Personal Link -> SteamID64
